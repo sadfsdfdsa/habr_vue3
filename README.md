@@ -3,7 +3,7 @@
 Это тестовый проект с экспериментами в написании хранилища данных Store на Compostion Api,
 использовании нового setup сахарного синтаксиса в написании компонентов, а также использование TSX во Vue 3.
 
-Habr: TODO
+Habr: <https://habr.com/ru/post/557928/>
 
 Old article for Vue 2: <https://habr.com/ru/post/540798/>
 
